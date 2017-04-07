@@ -1,0 +1,33 @@
+li {
+	border: 2px solid red;
+}
+
+#special {
+	background-color: yellow;
+}
+
+.completed {
+	text-decoration: line-through;
+}
+
+/*Element*/
+li {
+
+}
+/*class*/
+.hello {
+
+}
+/*id*/
+#name {
+
+}
+/*star*/
+
+/*Descendant Selector*/
+
+/*Adjacent Selector*/
+
+/*Attribute Selector*/
+
+/*nth of type*/
