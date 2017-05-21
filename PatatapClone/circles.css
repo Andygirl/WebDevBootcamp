@@ -1,9 +1,14 @@
-canvas {
+ canvas {
 	width: 100%;
 	background: black;
 }
 
 body, html { /*this sets canvas to be full size on the screen by making body take up full screen*/
 	height: 100%;
-	margin: 0
+	margin: 0;
+}
+
+h1 {
+	text-align: center;
+	margin: 0;
 }
